@@ -1,0 +1,369 @@
+@font-face {
+  font-family: 'font953b92f030b887f4ca7b74d4c88e68cf';
+      
+      src:    url('https://nomail.com.ua/files/eot/953b92f030b887f4ca7b74d4c88e68cf.eot?#iefix') format('embedded-opentype'),
+              url('https://nomail.com.ua/files/woff/953b92f030b887f4ca7b74d4c88e68cf.woff') format('woff'),
+              url('https://nomail.com.ua/files/woff2/953b92f030b887f4ca7b74d4c88e68cf.woff2') format('woff2');
+  }
+  
+  @font-face { font-family: 'TrumpGothicEast';  src: local('TrumpGothicEast'), url('https://nomail.com.ua/files/woff/953b92f030b887f4ca7b74d4c88e68cf.woff') 
+      format('woff'); }.header_container{
+  max-width: 100%;
+      }
+.about_container{
+  max-width: 100%;
+}
+.contact_us_col{
+  margin-top:100px;
+  }
+
+.contact_us_text{
+  width: 318px;
+  height: 104px;
+  margin: 104px 138px 63px 375px;
+  font-family: TrumpGothicEast;
+  font-size: 87px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.23;
+  letter-spacing: 3.74px;
+  text-align: center;
+  color: #1f2937;
+}
+.info_col{
+  width: 688px;
+  height: 1203px;
+  background-color: #f1f1f1;
+  margin: 64px 210px 0 30px;
+  position: absolute;
+}
+.name{
+  width: 272px;
+  height: 64px;
+  margin: 63px 0 24px 220px;
+  padding: 21px 144px 21px 24px;
+  border-radius: 3px;
+  border: solid 1px #b6b9bc;
+}
+.surname{
+  width: 272px;
+  height: 64px;
+  margin: 63px 0 24px 37px;
+  padding: 21px 146px 21px 24px;
+  border-radius: 3px;
+  border: solid 1px #b6b9bc;
+}
+.email{
+  width: 581px;
+  height: 64px;
+  margin: 24px 0 24px 220px;
+  padding: 21px 494px 21px 24px;
+  border-radius: 3px;
+  border: solid 1px #b6b9bc;
+}
+.phone_number{
+  width: 581px;
+  height: 64px;
+  margin: 24px 0 24px 220px;
+  padding: 23px 322px 22px 24px;
+  border-radius: 3px;
+  border: solid 1px #b6b9bc;
+}
+.company{
+  width: 581px;
+  height: 64px;
+  margin: 24px 0 24px 220px;
+  padding: 21px 472px 21px 24px;
+  border-radius: 3px;
+  border: solid 1px #b6b9bc;
+}
+.help_text{
+  width: 189px;
+  height: 39px;
+  margin: 58px 115px 30px 220px;
+  opacity: 0.9;
+  font-family: TrumpGothicEast;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: 0.64px;
+  text-align: left;
+  color: #1f2937;
+}
+.your_message{
+  width: 576px;
+  height: 176px;
+  border-radius: 3px;
+  border: solid 1px #b6b9bc;
+  padding: 24px 430px 133px 24px;
+  margin: 30px 0 16px 220px;
+}
+.check_box{
+  width: 27px;
+  height: 24px;
+  margin: 16px 16px 56px 220px;
+  border-radius: 2px;
+  border: solid 1px #b6b9bc;
+ 
+}
+.checkbox_text{
+  width: 170px;
+  height: 19px;
+  margin: 19px 0 58px 0;
+  font-family: Rubik;
+  font-size: 16px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.81;
+  letter-spacing: normal;
+  text-align: center;
+  color: #6b7280;
+}
+.send_button{
+  width: 576px;
+  height: 64px;
+  margin: 30px 0 16px 220px;
+  padding: 23px 266px 22px 267px;
+  border-radius: 3px;
+  background-image: linear-gradient(to bottom, #04cfd2, #027e80);
+  border: none;
+  border-radius: 3px;
+}
+.send_text{
+  width: 43px;
+  height: 19px;
+  font-family: Rubik;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.63;
+  letter-spacing: 0.22px;
+  text-align: left;
+  color: #ffffff;
+}
+.privacy_policy{
+  width: 446px;
+  height: 37px;
+  margin: 20px 0 148px 285px;
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1f2937;
+}
+.privacy_link{
+  color:#1f2937;
+}
+.privacy_link:hover{
+  color:#03989b;
+  text-decoration: none;
+}
+.privacy_link:active{
+  color:#03989b;
+  text-decoration: none;
+}
+.email_text{
+  width: 249px;
+  height: 24px;
+  margin: 90px 302px 26px 137px;
+  font-family: Rubik;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.3;
+  letter-spacing: 0.28px;
+  text-align: left;
+  color: #1f2937;
+}
+.infoarnologyam{
+  width: 119px;
+  height: 17px;
+  margin: 26px 302px 26px 137px;
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #1f2937;
+}
+.horizontal{
+  width: 100px;
+  height: 0;
+  margin: 0 302px 0 137px;
+  border: solid 0.5px #6b7280;
+}
+.first_info_number{
+  width: 115px;
+  height: 17px;
+  margin: 20px 302px 0 137px;
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #1f2937;
+}
+.second_info_number{
+  width: 115px;
+  height: 17px;
+  margin: 7px 302px 0 137px;
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #1f2937;
+}
+.find_text{
+  width: 67px;
+  height: 22px;
+  margin: 50px 205px 0 137px;
+  font-family: Rubik;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.44;
+  letter-spacing: 0.25px;
+  text-align: left;
+  color: #1f2937;
+}
+.facebook{
+  width: 27px;
+  height: 27px;
+  margin: 24px 16px 0 137px;
+  object-fit: contain;
+}
+.linkedin{
+  width: 27px;
+  height: 27px;
+  margin: 24px 16px 0 0;
+  object-fit: contain;
+}
+.twitter{
+  width: 27px;
+  height: 27px;
+  margin: 24px 16px 0 0;
+  object-fit: contain;
+}
+.github{
+  width: 27px;
+  height: 27px;
+  margin: 24px 16px 0 0;
+  object-fit: contain;
+}
+.instagram{
+  width: 27px;
+  height: 27px;
+  margin: 24px 16px 0 0;
+  object-fit: contain;
+}
+.yerevan{
+  width: 226px;
+  height: 104px;
+  margin: 103px 45px 8px 115px;
+  font-family: TrumpGothicEast;
+  font-size: 87px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.23;
+  letter-spacing: 1.74px;
+  text-align: center;
+  color: #1f2937;
+}
+.address_yerevan{
+  width: 204px;
+  height: 37px;
+  margin: 8px 67px 0 137px;
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1f2937;
+}
+.la{
+  width: 20px;
+  height: 39px;
+  margin: 51px 184px 10px 0;
+  font-family: TrumpGothicEast;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: 0.64px;
+  text-align: center;
+  color: #1f2937;
+}
+.leon{
+  width: 46px;
+  height: 39px;
+  margin: 51px 225px 10px 137px;
+  font-family: TrumpGothicEast;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: 0.64px;
+  text-align: center;
+  color: #1f2937;
+}
+.leon_address{
+  width: 204px;
+  height: 37px;
+  margin: 8px 67px 0 137px;
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1f2937;
+}
+.la_address{
+  width: 204px;
+  height: 37px;
+  margin: 8px 0 0 0;
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1f2937;
+}
+.contact_picture{
+  width: 555px;
+  height: 390.1px;
+  margin: 72px 0 0 340px;
+  object-fit: contain;
+}

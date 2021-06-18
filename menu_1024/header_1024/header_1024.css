@@ -1,0 +1,224 @@
+
+.body{
+    max-width: 1024px;
+    max-height: 653px;
+    padding: 0 0 20px;
+    background-color: #000000;
+}
+.menu_1024_logo{
+    width: 254.2px;
+    height: 37.6px;
+    margin: 58.4px 391.7px 0 128px;
+    object-fit: contain;
+}
+.icon_1024{
+    width: 24.4px;
+    height: 23.8px;
+    margin: 78.6px 0.6px 0 0;
+    font-size: 40px;
+    background-color: #000000;
+    color: #ffffff;    
+}
+.about_1024{
+    width: 92px;
+    height: 57px;
+    margin: 8px 380px 16px 705px;
+    font-family: TrumpGothicEast;
+    font-size: 48px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: 0.96px;
+    text-align: left;
+    color: #ffffff;
+}
+.about_1024:active{
+    color:#03c4c7;
+}
+.about_1024:hover{
+    color:#03c4c7;
+}
+.about_1024:visited{
+    color:#03c4c7;
+}
+.services_1024{
+    width: 92px;
+    height: 57px;
+    margin: 0 380px 16px 705px;
+    font-family: TrumpGothicEast;
+    font-size: 48px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: 0.96px;
+    text-align: left;
+    color: #ffffff;
+}
+.services_1024:active{
+    color:#03c4c7;
+}
+.services_1024:hover{
+    color:#03c4c7;
+}
+.services_1024:visited{
+    color:#03c4c7;
+}
+.works_1024{
+    width: 92px;
+    height: 57px;
+    margin: 0 380px 16px 705px;
+    font-family: TrumpGothicEast;
+    font-size: 48px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: 0.96px;
+    text-align: left;
+    color: #ffffff;
+}
+.works_1024:active{
+    color:#03c4c7;
+}
+.works_1024:hover{
+    color:#03c4c7;
+}
+.works_1024:visited{
+    color:#03c4c7;
+}
+.career_1024{
+    width: 92px;
+    height: 57px;
+    margin: 0 380px 16px 705px;
+    font-family: TrumpGothicEast;
+    font-size: 48px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: 0.96px;
+    text-align: left;
+    color: #ffffff;
+}
+.career_1024:active{
+    color:#03c4c7;
+}
+.career_1024:hover{
+    color:#03c4c7;
+}
+.career_1024:visited{
+    color:#03c4c7;
+}
+.contact_1024{
+    width: 92px;
+    height: 57px;
+    margin: 0 380px 16px 705px;
+    font-family: TrumpGothicEast;
+    font-size: 48px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: 0.96px;
+    text-align: left;
+    color: #ffffff;
+}
+.contact_1024:active{
+    color:#03c4c7;
+}
+.contact_1024:hover{
+    color:#03c4c7;
+}
+.contact_1024:visited{
+    color:#03c4c7;
+}
+.en_1024{
+    width: 21px;
+    height: 19px;
+    margin: 0 25px 55px 0;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.ru_1024{
+    width: 22px;
+    height: 19px;
+    margin: 25px 25px 55px 0;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: left;
+    color: #91959b;
+}
+.hy_1024{
+    width: 22px;
+    height: 19px;
+    margin: 19px 339px 55px 0;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: left;
+    color: #91959b;
+}
+.footer_facebook_1024{
+    width: 24px;
+    height: 24px;
+    margin: 55px 16px 0 148px;
+}
+.footer_github_1024{
+    width: 24px;
+    height: 24px;
+    margin: 55px 16px 0 0;
+}
+.footer_instagram_1024{
+    width: 24px;
+    height: 24px;
+    margin: 55px 16px 0 0;
+}
+.footer_linkedin_1024{
+    width: 24px;
+    height: 24px;
+    margin: 55px 16px 0 0;
+}
+.footer_twitter_1024{
+    width: 24px;
+    height: 24px;
+    margin: 55px 16px 0 0;
+}
+.button_1024{
+    width: 176px;
+    height: 48px;
+    margin: 34px 145.9px 0 169.8px;
+    padding: 13.5px 18px;
+    border: solid 1px #03c4c7;
+    background-color: #000000;
+}
+.button_text_1024{
+    width: 140px;
+    height: 19px;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: 0.22px;
+    text-align: left;
+    color: #03c4c7;
+}

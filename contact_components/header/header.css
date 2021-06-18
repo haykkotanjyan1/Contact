@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'font953b92f030b887f4ca7b74d4c88e68cf';
+        
+        src:    url('https://nomail.com.ua/files/eot/953b92f030b887f4ca7b74d4c88e68cf.eot?#iefix') format('embedded-opentype'),
+                url('https://nomail.com.ua/files/woff/953b92f030b887f4ca7b74d4c88e68cf.woff') format('woff'),
+                url('https://nomail.com.ua/files/woff2/953b92f030b887f4ca7b74d4c88e68cf.woff2') format('woff2');
+    }
+    
+    @font-face { font-family: 'TrumpGothicEast';  src: local('TrumpGothicEast'), url('https://nomail.com.ua/files/woff/953b92f030b887f4ca7b74d4c88e68cf.woff') 
+        format('woff'); }.header_container{
+    max-width: 100%;
+}
+.arn_logo{
+    width: 254.2px;
+    height: 37.6px;
+    margin: 58.4px 387.8px 0 220px;
+    object-fit: contain;
+}
+.about{
+    width: 45px;
+    height: 19px;
+    margin: 67px 37px 0 52px;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f2937;
+}
+.about:active{
+    color:#03c4c7;
+}
+.about:hover{
+    color:#03c4c7;
+}
+
+.services{
+    width: 63px;
+    height: 19px;
+    margin: 67px 32px 0 0;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f2937;
+}
+.services:active{
+    color:#03c4c7;
+}
+.services:hover{
+    color:#03c4c7;
+}
+.works{
+    width: 44px;
+    height: 19px;
+    margin: 67px 40px 0 0;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f2937;
+}
+.works:active{
+    color:#03c4c7;
+}
+.works:hover{
+    color:#03c4c7;
+}
+.career{
+    width: 49px;
+    height: 19px;
+    margin: 67px 36px 0 0;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f2937;
+}
+.career:active{
+    color:#03c4c7;
+}
+.career:hover{
+    color:#03c4c7;
+}
+.contact{
+    width: 59px;
+    height: 19px;
+    margin: 67px 0 0 0;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f2937;
+}
+.contact:active{
+    color:#03c4c7;
+    
+}
+.contact:hover{
+    color:#03c4c7;
+}
+.btn_header{
+    width: 176px;
+    height: 48px;
+    margin: 80px 70px 0 40px;
+    padding: 13.5px 24px;
+    background-color: #03989b;
+    border:none;
+    border-radius: 6px;
+}
+.get-an-estimate{
+    width: 140px;
+    height: 19px;
+    font-family: Rubik;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: 0.22px;
+    text-align: left;
+    color: #ffffff;
+}
+.lang_select{
+  margin: 90px 190px 0 0;
+  font-family: Rubik;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.63;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1f2937;
+  border: white;
+  background-color: white;
+}

@@ -1,0 +1,284 @@
+.footer_container{
+    max-width: 100%;
+    max-height: 100%;
+    background-color: #09080d;
+    margin: 52.9px 0 0;
+}
+.arn_logo_footer{
+  margin:54.5px 1400.9px 24.1px  220px;
+
+}
+.footer_contact{
+    width: 61px;
+    height: 19px;
+    margin: 0 150px 28px 220px;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: 0.22px;
+    text-align: left;
+    color: #ffffff;
+}
+.footer_email{
+    width: 154px;
+  height: 17px;
+  margin: 0 100px 24px 220px;
+  opacity: 0.65;
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #ffffff;
+}
+.footer_phone_number{
+    width: 120px;
+  height: 17px;
+  margin: 0 102px 6px 220px;
+  opacity: 0.65;
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #ffffff;
+}
+.footer_phone_number_second{
+    width: 120px;
+  height: 17px;
+  margin: 0 102px 256px 220px;
+  opacity: 0.65;
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #ffffff;
+}
+.footer_company{
+    width: 72px;
+    height: 19px;
+    margin: 0 85px 28px 0;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: 0.22px;
+    text-align: left;
+    color: #ffffff;
+}
+.footer_about{
+        width: 40px;
+        height: 17px;
+        margin: 0 161px 8px 0;
+        opacity: 0.65;
+        font-family: Rubik;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.86;
+        letter-spacing: 0.2px;
+        text-align: left;
+        color: #ffffff;
+      }
+.footer_career{
+    width: 39px;
+  height: 17px;
+  margin: 0 157px 9px 0;
+  opacity: 0.65;
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #ffffff;
+}
+.footer_team{
+    width: 39px;
+    height: 17px;
+    margin: 0 166px 8px 0;
+    opacity: 0.65;
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: 0.2px;
+    text-align: left;
+    color: #ffffff;
+}
+.footer_get_estimate{
+    width: 39px;
+    height: 17px;
+    margin: 0 115px 9px 0;
+    opacity: 0.65;
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: 0.2px;
+    text-align: left;
+    color: #ffffff;
+}
+.footer_privacy_policy{
+    width: 39px;
+    height: 17px;
+    margin: 0 109px 8px 0;
+    opacity: 0.65;
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: 0.2px;
+    text-align: left;
+    color: #ffffff;
+}
+.footer_faq{
+    width: 39px;
+    height: 17px;
+    margin: 0 174px 9px 0;
+    opacity: 0.65;
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: 0.2px;
+    text-align: left;
+    color: #ffffff;
+}
+.footer_services{
+    width: 65px;
+  height: 19px;
+  margin-top: 0;
+  margin-left:0;
+  margin-bottom: 28px;
+  font-family: Rubik;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.63;
+  letter-spacing: 0.22px;
+  text-align: left;
+  color: #ffffff;
+}
+.footer_develop{
+    width: 172px;
+  height: 249px;
+  margin: 0 27px 90px 0;
+  opacity: 0.65;
+  font-family: Rubik;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: 0.18px;
+  text-align: left;
+  color: #ffffff;
+}
+.footer_design{
+  width: 194px;
+  height: 275px;
+  margin: 48px 645px 66px 0;
+  opacity: 0.65;
+  font-family: Rubik;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: 0.18px;
+  text-align: left;
+  color: #ffffff;
+}
+.footer_design{
+  z-index: 1;
+}
+.footer_map{
+  position: absolute;
+  z-index: 0;
+  object-fit: contain;
+  margin-top: 0;
+  width: 830.5px;
+  height: auto;
+}
+.footer_horizontal{
+  width: 1454px;
+  height: 0;
+  margin-left: 220px;
+  margin: 0 auto;
+  border: solid 1px #707070;
+}
+.footer_facebook{
+  width: 24px;
+  height: 24px;
+  margin: 16px 16px 39px 0;
+  object-fit: contain;
+}
+.footer_github{
+  width: 24px;
+  height: 24px;
+  margin: 16px 16px 39px 0;
+  object-fit: contain;
+}
+.footer_instagram{
+    width: 24px;
+    height: 24px;
+    margin: 16px 16px 39px 0;
+    object-fit: contain;
+  }
+
+.footer_linkedin{
+    width: 24px;
+    height: 24px;
+    margin: 16px 16px 39px 0;
+    object-fit: contain;
+
+}
+.footer_twitter{
+    width: 24px;
+    height: 24px;
+    margin: 16px 210px 39px 0;
+    object-fit: contain;
+    
+}
+.copy_text{
+  width: 102px;
+  height: 17px;
+  margin: 26px 219px 0 220px;
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #e5e7eb;
+}

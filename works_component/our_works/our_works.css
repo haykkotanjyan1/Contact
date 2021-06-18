@@ -1,0 +1,157 @@
+.our_works{
+    margin: 8px 171px 44px;
+    font-family: TrumpGothicEast;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: 0.48px;
+    text-align: center;
+    color: #1f2937;
+}
+
+.all {
+    width: 13px;
+    height: 22px;
+    margin: 0 40px 0 0;
+    font-family: TrumpGothicEast;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: 0.25px;
+    text-align: left;
+    color: #03989b;
+  }
+  .all:active{
+    color: #03989b;
+  }
+  .all:hover{
+    color: #03989b;
+  }
+  .social {
+    width: 32px;
+    height: 22px;
+    margin: 0 40px;
+    font-family: TrumpGothicEast;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: 0.25px;
+    text-align: left;
+    color: #1f2937;
+  }
+  .social:active{
+    color: #03989b;
+  }
+  .social:hover{
+    color: #03989b;
+  }
+  .ecommerce {
+    width: 60px;
+    height: 22px;
+    margin: 0 40px;
+    font-family: TrumpGothicEast;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: 0.25px;
+    text-align: left;
+    color: #1f2937;
+  }
+  .ecommerce:active{
+    color: #03989b;
+  }
+  .ecommerce:hover{
+    color: #03989b;
+  }
+  .travel {
+    width: 32px;
+    height: 22px;
+    margin: 0 39px 0 40px;
+    font-family: TrumpGothicEast;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: 0.25px;
+    text-align: left;
+    color: #1f2937;
+  }
+  .travel:active{
+    color: #03989b;
+  }
+  .travel:hover{
+    color: #03989b;
+  }
+  .booking {
+    width: 42px;
+    height: 22px;
+    margin: 0 40px 0 39px;
+    font-family: TrumpGothicEast;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: 0.25px;
+    text-align: left;
+    color: #1f2937;
+  }
+  .booking:active{
+    color: #03989b;
+  }
+  .booking:hover{
+    color: #03989b;
+  }
+  .apps {
+    width: 25px;
+    height: 22px;
+    margin: 0 40px;
+    font-family: TrumpGothicEast;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: 0.25px;
+    text-align: left;
+    color: #1f2937;
+  }
+  .apps:active{
+    color: #03989b;
+  }
+  .apps:hover{
+    color: #03989b;
+  }
+  .other {
+    width: 29px;
+    height: 22px;
+    margin: 0 0 0 40px;
+    font-family: TrumpGothicEast;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: 0.25px;
+    text-align: left;
+    color: #1f2937;
+  }
+  .other:active{
+    color: #03989b;
+  }
+  .other:hover{
+    color: #03989b;
+  }
+  .other:visited{
+    color: #03989b;
+  }
+  
